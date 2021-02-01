@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\AccountMangement\AccountMangement\obj\Debug\netcoreapp3.1\AccountMangement.csprojAssemblyReference.cache
+C:\Users\user\source\repos\AccountMangement\AccountMangement\obj\Debug\netcoreapp3.1\AccountMangement.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\AccountMangement\AccountMangement\obj\Debug\netcoreapp3.1\AccountMangement.AssemblyInfo.cs
+C:\Users\user\source\repos\AccountMangement\AccountMangement\obj\Debug\netcoreapp3.1\AccountMangement.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AccountMangement\AccountMangement\bin\Debug\netcoreapp3.1\AccountMangement.exe
+C:\Users\user\source\repos\AccountMangement\AccountMangement\bin\Debug\netcoreapp3.1\AccountMangement.deps.json
+C:\Users\user\source\repos\AccountMangement\AccountMangement\bin\Debug\netcoreapp3.1\AccountMangement.runtimeconfig.json
+C:\Users\user\source\repos\AccountMangement\AccountMangement\bin\Debug\netcoreapp3.1\AccountMangement.runtimeconfig.dev.json
+C:\Users\user\source\repos\AccountMangement\AccountMangement\bin\Debug\netcoreapp3.1\AccountMangement.dll
+C:\Users\user\source\repos\AccountMangement\AccountMangement\bin\Debug\netcoreapp3.1\AccountMangement.pdb
+C:\Users\user\source\repos\AccountMangement\AccountMangement\obj\Debug\netcoreapp3.1\AccountMangement.dll
+C:\Users\user\source\repos\AccountMangement\AccountMangement\obj\Debug\netcoreapp3.1\AccountMangement.pdb
+C:\Users\user\source\repos\AccountMangement\AccountMangement\obj\Debug\netcoreapp3.1\AccountMangement.genruntimeconfig.cache
